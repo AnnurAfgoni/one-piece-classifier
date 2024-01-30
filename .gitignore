@@ -1,0 +1,8 @@
+*.env
+*.zip
+*.tflite
+.vscode
+
+# big folder
+saved_model
+Data
